@@ -35,7 +35,7 @@ class control extends base {
 		$code->height = 21;
 		$code->background = 0;
 		$code->adulterate = 1;
-		$code->ttf = 1;
+		$code->ttf = 0;
 		$code->angle = 0;
 		$code->color = 1;
 		$code->size = 0;
